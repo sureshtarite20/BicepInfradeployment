@@ -39,4 +39,3 @@ resource webApp 'Microsoft.Web/sites@2021-01-01' = {
     serverFarmId: appServicePlan.id
   }
 }
-
